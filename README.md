@@ -10,5 +10,5 @@ S'occupe de former la base d'entrainement (images d'entrées et targets)
 ## Erwan & Clémentin
 S'occupent de l'algorithme pour entrainer le réseau de neurones de façon naïve
 
-#Jules
+## Jules
 S'occupe de transformer la sortie du réseau de neurones pour reformer l'image
